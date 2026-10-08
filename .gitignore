@@ -1,0 +1,9 @@
+# VW Paul dataset build cache / scratch — not part of the dataset
+data/
+prompts.tsv
+stats.json
+qc_report.txt
+errors.log
+__pycache__/
+*.err
+*.log
